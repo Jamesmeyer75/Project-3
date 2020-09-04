@@ -79,6 +79,6 @@
     "reactstrap": "^8.4.1",
     "safe-buffer": "^5.2.0",
     "scrape-it": "^5.2.3",
-    "sequelize": "^4.44.3"
+    "sequelize": "^5.15.1"
   }
 }
